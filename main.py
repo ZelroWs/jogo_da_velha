@@ -1,0 +1,8 @@
+from funcs import *
+começar()
+
+
+
+
+
+
